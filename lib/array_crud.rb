@@ -26,8 +26,8 @@ def retrieve_element_from_index(create_an_array, index_number)
   create_an_array.index_number[3]
 end
 
-def retrieve_first_element_from_array(array)
-  
+def retrieve_first_element_from_array(create_an_array)
+  create_an_array.first
 end
 
 def retrieve_last_element_from_array(array)
