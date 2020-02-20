@@ -30,6 +30,6 @@ def retrieve_first_element_from_array(create_an_array)
   create_an_array.first
 end
 
-def retrieve_last_element_from_array(array)
-  
+def retrieve_last_element_from_array(create_an_array)
+  create_an_array.last
 end
